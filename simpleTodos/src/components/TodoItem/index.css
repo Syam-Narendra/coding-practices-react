@@ -1,0 +1,10 @@
+.button {
+  color: #ff0b37;
+  max-height: 30px;
+  border-radius: 10px;
+  border-color: #ff0b37;
+}
+.block {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.appointment-item-container {
+  padding: 10px;
+  list-style-type: none;
+  width: 20vw;
+  border-radius: 20px;
+  border: 1px solid;
+  background-color: transparent;
+  margin: 20px;
+}
+.name-star {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

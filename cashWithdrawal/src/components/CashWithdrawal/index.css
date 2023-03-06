@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.card {
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+.rupee {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+  width: 100vh;
+}
+.icon {
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  height: 50px;
+  width: 50px;
+  border: solid white;
+}

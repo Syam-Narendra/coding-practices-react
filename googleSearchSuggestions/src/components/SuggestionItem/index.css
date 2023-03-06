@@ -1,0 +1,15 @@
+.items {
+  display: flex;
+  width: 20vw;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow {
+  max-height: 20px;
+  max-width: 20px;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+}

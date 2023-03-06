@@ -1,0 +1,36 @@
+/* Write your code here. */
+.totalBoxes {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.boxCounter {
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+.oneBox {
+  height: 80px;
+  width: 80px;
+  background-color: #fbbf24;
+  /* background-color: blue; */
+}
+.twoBox {
+  background-color: #38bdf8;
+  height: 150px;
+  width: 150px;
+}
+.threeBox {
+  background-color: #ec4899;
+  height: 450px;
+  width: 450px;
+}

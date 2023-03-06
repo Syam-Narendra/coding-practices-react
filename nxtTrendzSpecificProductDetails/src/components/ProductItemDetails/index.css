@@ -1,0 +1,18 @@
+.item-details-card {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-evenly;
+}
+.product-image {
+  width: 25vw;
+  height: 60vh;
+}
+.product-data {
+  display: flex;
+  flex-direction: column;
+  max-width: 50vw;
+  align-items: flex-start;
+}
+.rating {
+  background-color: #3b82f6;
+}

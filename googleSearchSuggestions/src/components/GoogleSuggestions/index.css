@@ -1,0 +1,14 @@
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.imageContain {
+  width: auto;
+}
+.image {
+  padding: 20px;
+  width: 20vw;
+}

@@ -1,0 +1,23 @@
+.image-logo {
+  width: 10vw;
+}
+
+.courses-data {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.course-item {
+  width: 20vw;
+  list-style-type: none;
+}
+.course-button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

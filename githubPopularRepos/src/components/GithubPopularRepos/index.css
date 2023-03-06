@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.languages-list {
+  display: flex;
+}
+.respository-list {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5d0fe;
+}
+.container {
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+}
+.button {
+  background-color: #d946ef;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.text-input {
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #cbd2d9;
+  /* border-color: #cbd2d9; */
+}
+.text-box {
+  display: flex;
+}

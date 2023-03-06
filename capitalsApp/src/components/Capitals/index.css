@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+}
+.container {
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+}

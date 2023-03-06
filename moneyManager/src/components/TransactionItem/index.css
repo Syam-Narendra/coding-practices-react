@@ -1,0 +1,12 @@
+.transcation-item {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-around;
+}
+.delete-button {
+  border: none;
+  background-color: transparent;
+}
+.delete-image {
+  height: 30px;
+}

@@ -1,0 +1,19 @@
+.appItem {
+  list-style: none;
+  display: flex;
+  height: 150px;
+  width: 150px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: white;
+}
+.appIcon {
+  height: 80px;
+}
+.app-name {
+  text-align: center;
+}

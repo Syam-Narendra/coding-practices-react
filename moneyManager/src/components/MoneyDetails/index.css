@@ -1,0 +1,12 @@
+.bal-money-list {
+  list-style: none;
+  display: flex;
+  width: 20vw;
+  justify-content: space-around;
+  padding: 20px;
+  align-items: center;
+  border-radius: 10px;
+}
+.image-icon {
+  height: 10vh;
+}

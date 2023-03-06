@@ -1,0 +1,21 @@
+.first-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.main {
+  height: auto;
+
+  padding: 50px;
+}
+.button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: #0b69ff;
+}
+.second-container {
+  display: flex;
+  /* width: 100vw; */
+  justify-content: center;
+}

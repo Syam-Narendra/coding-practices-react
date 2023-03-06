@@ -1,0 +1,28 @@
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+}
+.oneBlock {
+  padding: 50px;
+  color: white;
+}
+.input {
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  border: solid white 1px;
+}
+.noOfLett {
+  border-radius: 5px;
+  background-color: white;
+  padding: 10px;
+  color: #1d976c;
+}
+.image {
+  width: 100vw;
+}

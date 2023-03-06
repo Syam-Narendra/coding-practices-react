@@ -1,0 +1,31 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+}
+.container {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.array {
+  max-width: 50vw;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+}
+.heading {
+  color: #0b69ff;
+}
+.button {
+  background-color: #0b69ff;
+  padding: 10px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}

@@ -1,0 +1,24 @@
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#ffeeee, #ffc0bb);
+}
+.container {
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+  width: 40vw;
+  text-align: center;
+}
+.button {
+  border: none;
+}
+.image {
+  height: 70px;
+}
+.images-container {
+  display: flex;
+  justify-content: space-evenly;
+}

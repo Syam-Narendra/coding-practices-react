@@ -1,0 +1,78 @@
+.main {
+  max-height: auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+
+  justify-content: space-between;
+  padding: 50px;
+  border-radius: 20px;
+  height: auto;
+  background-color: white;
+}
+.appointment {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.text {
+  color: #b5b7c4;
+}
+.button {
+  background-color: #8b5cf6;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  color: white;
+  border-radius: 10px;
+}
+.input-box {
+  outline: none;
+  padding: 5px;
+}
+.appointment-container {
+  border-top: 2px solid #b5b7c4;
+  margin-top: 10px;
+}
+.appointments-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.star-button {
+  border-radius: 10px;
+  padding: 10px;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.appointmets-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.date-input {
+  padding: 5px;
+  border-radius: 5px;
+  border-color: #b5b7c4;
+}
+.active-button {
+  background-color: #8b5cf6;
+  color: white;
+  border: none;
+}
+.inactive-button {
+  color: #8b5cf6;
+  background-color: transparent;
+  border: 2px solid #8b5cf6;
+}

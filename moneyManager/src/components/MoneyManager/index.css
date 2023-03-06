@@ -1,0 +1,61 @@
+.main {
+  display: flex;
+}
+.heading {
+  width: 100vw;
+  height: 30vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: 100vw;
+}
+.input-type {
+  outline: none;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.hide-delete {
+  color: transparent;
+}
+.money-details {
+  display: flex;
+  width: 100vw;
+  justify-content: space-evenly;
+}
+.transcation-history {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.transcation {
+  padding: 20px;
+  width: 40vw;
+  border-radius: 5px;
+  display: flex;
+  border: 1px solid;
+  flex-direction: column;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+.history {
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 5px;
+  width: 40vw;
+}
+.add-button {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background-color: #0b69ff;
+}
+#transcationType {
+  padding: 10px;
+}

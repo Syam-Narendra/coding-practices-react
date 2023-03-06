@@ -1,0 +1,22 @@
+/* Write your code here. */
+.notificationBox {
+  font-family: Roboto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.oneNotification {
+  font-family: Roboto;
+  margin-bottom: 10px;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  /* height: 10px; */
+  width: 8vw;
+}
+.messageHeading {
+  color: white;
+}

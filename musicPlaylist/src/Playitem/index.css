@@ -1,0 +1,17 @@
+.play-item {
+  display: flex;
+  /* background-color: red; */
+  justify-content: space-between;
+}
+.play-image {
+  height: 15vh;
+  margin-bottom: 10px;
+}
+.first-sec {
+  display: flex;
+}
+.time-delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

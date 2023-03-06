@@ -1,0 +1,12 @@
+.tabButton {
+  border: none;
+  background-color: transparent;
+
+  margin: 10px;
+}
+.active-border {
+  border-bottom: solid 2px #2563eb;
+}
+.tabList {
+  list-style: none;
+}

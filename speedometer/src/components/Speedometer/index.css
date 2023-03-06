@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: #07080c;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Roboto;
+}
+.heading {
+  color: white;
+}
+.image {
+  max-height: 50vh;
+  max-width: 50vw;
+}

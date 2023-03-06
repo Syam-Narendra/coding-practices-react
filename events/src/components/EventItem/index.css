@@ -1,0 +1,14 @@
+.event-image {
+  width: 15vw;
+}
+.name {
+  font-size: medium;
+  color: white;
+}
+.location {
+  color: white;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}

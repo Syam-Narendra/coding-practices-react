@@ -1,0 +1,17 @@
+/* Write your code here. */
+body {
+  margin: 0px;
+}
+.background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png);
+}
+.threeButt {
+  display: flex;
+  flex-direction: row;
+  margin: 100px;
+}

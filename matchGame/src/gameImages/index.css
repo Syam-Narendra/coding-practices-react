@@ -1,0 +1,9 @@
+.game-smaill-image {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+}
+.deleteButtDecoration {
+  border: none;
+  background-color: transparent;
+}

@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  width: 100vw;
+  height: 40vh;
+  background-size: cover;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png');
+}
+.elements {
+  color: white;
+  align-self: flex-end;
+}
+.down {
+  display: flex;
+  background-color: #152850;
+  padding: 10px;
+  flex-direction: column;
+  color: white;
+}
+.input-box {
+  background-color: transparent;
+  border: 1px solid wheat;
+}
+.search-box {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+.main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffc2a0;
+}
+.container {
+  background-color: white;
+  padding: 25px;
+  width: 80vh;
+}
+.heading {
+  color: #ff8542;
+  display: flex;
+  justify-content: center;
+}
